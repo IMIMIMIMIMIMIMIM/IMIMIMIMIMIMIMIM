@@ -1,6 +1,6 @@
 # IMIMIMIMIMIMIMIM
 ### Hi IM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### Developer Dream Tree from :kr: Seoul, Republic of Korea 
 
 ### About me
 
