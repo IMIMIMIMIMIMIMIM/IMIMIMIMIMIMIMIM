@@ -1,6 +1,6 @@
 # IMIMIMIMIMIMIMIM
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### Hi IM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Full Stack Web Developer from :kr: Seoul, Republic of Korea 
 
 ### About me
 
@@ -50,5 +50,5 @@ Animation with pure CSS & P5.js <br/>
 </p>
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IMIMIMIMIMIMIMIM&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMIMIMIMIMIMIMIM&layout=compact&theme=vue&hide_border=true" />
