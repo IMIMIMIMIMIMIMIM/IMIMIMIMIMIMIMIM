@@ -2,10 +2,8 @@
 ### Hi IM <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Developer Dream Tree from :kr: Seoul, Republic of Korea 
 
-### About me
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like react, HTML, CSS and Javascript.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
 📫 How to reach me: ism124@naver.com <br/>
 
 ### Interest
