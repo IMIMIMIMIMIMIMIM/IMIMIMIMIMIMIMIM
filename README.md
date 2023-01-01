@@ -4,9 +4,9 @@
 
 ### About me
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
+:four_leaf_clover: I’m currently learning Basic Programming skills like react, HTML, CSS and Javascript.<br/>
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
-📫 How to reach me: myEmail@gmail.com <br/>
+📫 How to reach me: ism124@naver.com <br/>
 
 ### Interest
 
