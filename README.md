@@ -12,7 +12,7 @@ Web development <br/>
 Animation with pure CSS & P5.js <br/>
 
 ### Latest Projects
-lotto game(https://github.com/IMIMIMIMIMIMIMIM/lottoGame)
+[lotto game](https://github.com/IMIMIMIMIMIMIMIM/lottoGame)
 
 ### Languages and Tools
 
