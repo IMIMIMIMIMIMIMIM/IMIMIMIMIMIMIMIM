@@ -4,7 +4,7 @@
 
 
 :four_leaf_clover: I’m currently learning Basic Programming skills like react, HTML, CSS and Javascript.<br/>
-📫 How to reach me: ism124@naver.com <br/>
+📫 How to reach me: ism1124@naver.com <br/>
 
 ### Interest
 
