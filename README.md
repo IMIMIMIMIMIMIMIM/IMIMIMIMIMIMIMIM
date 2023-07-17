@@ -31,15 +31,6 @@ Animation with pure CSS & P5.js <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-### Connect with me
-
-<p>
-<a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
-
 <!-- status bar -->
   <img src="https://github-readme-stats.vercel.app/api?username=IMIMIMIMIMIMIMIM&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMIMIMIMIMIMIMIM&layout=compact&theme=vue&hide_border=true" />
