@@ -11,7 +11,7 @@
 Web development <br/>
 
 ### Latest Projects
-[lotto game](https://github.com/IMIMIMIMIMIMIMIM/lottoGame)
+[portfolio-im](https://github.com/IMIMIMIMIMIMIMIM/Portfolio-IM)
 
 ### Languages and Tools
 
